@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Project directories
+cricket/
+reports/
+tests/
+
+# Other files
+*.log
