@@ -1,2 +1,2 @@
-# Makes "cricket" a package
+# Makes "cricket" a package.
 __all__ = []
