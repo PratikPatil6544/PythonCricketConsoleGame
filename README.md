@@ -34,7 +34,7 @@ Prerequisites
 Git, Python 3.8+ (3.10+ recommended), make.
 
 Steps
-- Clone the repo git clone https://github.com/<your-username>/<your-repo>.git cd <your-repo>
+- Clone the repo git clone
 - Install dependencies in a virtual environment make install
 - Run the game make run
 - Run all Robot Framework tests make test
