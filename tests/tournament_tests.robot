@@ -1,6 +1,6 @@
 Library    Process
 
-${PYTHON}    /home/omkar/projects/PythonCricketConsoleGame/venv/bin/python
+${PYTHON}
 
 
 Intro And Setup Order
